@@ -14,9 +14,9 @@ Embora todas as informações estejam disponíveis no próprio jogo, desenvolvem
 
 Você pode baixar os arquivos executáveis (instaladores) através dos seguintes links (para Windows):
 
-- [x] x86 : https://download.nintersoft.com/gerar-download.php?prog=rubix ;
-- [x] x86 : https://download.nintersoft.com/gerar-download.php?prog=rubix&plat=x86 ;
-- [x] x64 : https://download.nintersoft.com/gerar-download.php?prog=rubix&plat=x64 ;
+- [x] x86 : http://download.nintersoft.com/gerar-download.php?prog=rubix ;
+- [x] x86 : http://download.nintersoft.com/gerar-download.php?prog=rubix&plat=x86 ;
+- [x] x64 : http://download.nintersoft.com/gerar-download.php?prog=rubix&plat=x64 ;
 - [ ] Tanto x86 quanto x64 : https://docwiki.nintersoft.com/rubix/ ;
 
 ## ATENÇÃO: Código Aberto | Licença de terceiros
